@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var SCORE_ACTION = /*#__PURE__*/function (SCORE_ACTION) {\n  SCORE_ACTION[\"RESET\"] = \"RESET\";\n  SCORE_ACTION[\"ADD\"] = \"ADD\";\n  return SCORE_ACTION;\n}(SCORE_ACTION || {});","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
